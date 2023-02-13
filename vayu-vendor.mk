@@ -1192,6 +1192,7 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
+    BluetoothDsDaService \
     PerformanceMode \
     PowerSaveMode \
     QtiTelephonyService \
